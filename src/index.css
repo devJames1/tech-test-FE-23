@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:600");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #9fa3b1;
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #9fa3b1;
+}
+
+:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #9fa3b1;
+}
